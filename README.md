@@ -6,6 +6,8 @@
 
 ## Author: Fatima Bekmamatova COM19-A
 
+This is the Breakout game in C#. I tried to implement this project with my beginner C# knowledge. Here, every movement is taken into consideration, blocks take random colors each time when the game starts. I'm interested in improving this game in the future, by adding score history, reords ect.
+
 * Screenshots of the game
 ![Снимок экрана (21)](https://user-images.githubusercontent.com/57977808/161370514-a3e8654b-61f3-41d2-bb52-516fda9f7c6e.png)
 
